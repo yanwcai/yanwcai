@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stellar
+- 👋 Hi
 - 👀 I’m interested in software development, mystery movies and guitar fingerstyle
 - 🌱 I’m currently learning computer science and acoustic guitar
 - 💞️ I’m looking to collaborate on building projects
