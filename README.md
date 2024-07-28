@@ -1,6 +1,6 @@
 - 👋 Hi
-- 👀 I’m interested in software development, mystery movies and guitar fingerstyle
-- 🌱 I’m currently learning computer science and acoustic guitar
+- 👀 I’m interested in software development and testing, and mystery movies
+- 🌱 I’m currently studying computer science and acoustic guitar
 - 💞️ I’m looking to collaborate on building projects
 - 📫 Reach me by email: yca452@sfu.ca
 
